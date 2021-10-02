@@ -1,4 +1,4 @@
-# BFProject1
+# Business Forecasting Project 1
 Business Forensic Project 1
 
 - Our data includes fish capture and aquaculture production for the United States from 1960 to 2016. Considering the data, we plan to forecast the number of fishes that need to be captured and cultivated through aquaculture to suffice the needs in the United States.
