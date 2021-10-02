@@ -9,7 +9,7 @@ Business Forensic Project 1
 
 - The data is in yearly format.
 
-- Our data includes fish capture and aquaculture production for United States from 1960 to 2016. This data was found on Kaggle after looking for fish captured in the world.
+- Our data includes fish capture and aquaculture production for the United States from 1960 to 2016. This data was found on Kaggle after looking for fish captured in the world.
 
 Project Team Member:
 1. [GauravKumar Vishwakarma](https://github.com/Gaurav-Vish)
