@@ -14,4 +14,4 @@ Business Forensic Project 1
 Project Team Member:
 1. [GauravKumar Vishwakarma](https://github.com/Gaurav-Vish)
 2. [Vallabh Sawant](https://github.com/VallabhSawant)
-3. [Rakshit Karera](https://github.com/Rakshit-Karkera)
+3. [Rakshit Karkera](https://github.com/Rakshit-Karkera)
