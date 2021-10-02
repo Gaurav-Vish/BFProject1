@@ -12,6 +12,6 @@ The data is in yearly format.
 Our data includes fish capture and aquaculture production for United States from 1960 to 2016. This data was found on Kaggle after looking for fish captured in the world.
 
 Project Team Member:
-1. ![GauravKumar Vishwakarma](https://github.com/Gaurav-Vish)
-2. ![Vallabh Sawant](https://github.com/VallabhSawant)
-3. ![Rakshit Karera](https://github.com/Rakshit-Karkera)
+1. [GauravKumar Vishwakarma](https://github.com/Gaurav-Vish)
+2. [Vallabh Sawant](https://github.com/VallabhSawant)
+3. [Rakshit Karera](https://github.com/Rakshit-Karkera)
