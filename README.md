@@ -3,7 +3,7 @@ Business Forensic Project 1
 
 - Our data includes fish capture and aquaculture production for United States from 1960 to 2016. Considering the data, we plan to forecast the number of fishes that needs to be captured and cultivated through aquaculture to suffice the needs in United States.
 
-- We plan to do a short forecast for coming 3 years.
+- We plan to do a short forecast for next 3 years.
 
 - We plan to split the data into train and test data. After applying certain algorithms and comparing the error, we can measure the accuracy of the forecast.
 
